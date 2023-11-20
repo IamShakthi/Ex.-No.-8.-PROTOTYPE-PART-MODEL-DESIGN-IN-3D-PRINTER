@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: YUVASAKTHI N.C
+### Register Number: 212222240120
+![image](https://github.com/DHARINIPV/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119400845/4caacbd7-e1d3-4b89-b58a-505778fe3075)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
